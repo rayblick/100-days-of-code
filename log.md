@@ -10,7 +10,15 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Thoughts:** Installation took longer than expected so I decided to call this day zero and I will start coding tomorrow.
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day001.md](docs/day001.md)
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day000.md](docs/day000.md)  
 
 
+### Day 1: July 09, 2018  
+
+**Today's Progress**: Restructured app layout for components/containers and implemented styles. 
+
+**Thoughts:** This hour dissapeared really quickly! So much to do!
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day001.md](docs/day001.md)  
