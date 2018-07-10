@@ -22,3 +22,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day001.md](docs/day001.md)  
+
+
+### Day 2: July 10, 2018  
+
+**Today's Progress**: Created brewtrackers first button. Added a function to change state. Started thinking about app design.
+
+**Thoughts:** Still catching myself writing Python.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day002.md](docs/day002.md)  
