@@ -32,3 +32,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day002.md](docs/day002.md)  
+
+
+### Day 3: July 11, 2018  
+
+**Today's Progress:** Investigated screen layout; specifically, divided the screen into 6 equal parts. Each area will eventually hold an image and become a button.
+
+**Thoughts:** Nothing technical. Get 'er done. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day003.md](docs/day003.md)  
