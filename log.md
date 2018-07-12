@@ -42,3 +42,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day003.md](docs/day003.md)  
+
+
+### Day 4: July 12, 2018  
+
+**Today's Progress:** TNavigation between screens. Added placeholder text instead of ugly colours. 
+
+**Thoughts:** Lots of repetition to create mutlitple screens. Once I had created one, the rest was cake.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day004.md](docs/day004.md)  
