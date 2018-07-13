@@ -46,9 +46,19 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 ### Day 4: July 12, 2018  
 
-**Today's Progress:** TNavigation between screens. Added placeholder text instead of ugly colours. 
+**Today's Progress:** Navigation between screens. Added placeholder text instead of ugly colours. 
 
-**Thoughts:** Lots of repetition to create mutlitple screens. Once I had created one, the rest was cake.
+**Thoughts:** Lots of repetition to create mutltiple screens. Once I had created one, the rest was cake.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day004.md](docs/day004.md)  
+
+
+### Day 5: July 13, 2018  
+
+**Today's Progress:** Created a reusable component - the back button.  
+
+**Thoughts:** I need to look at arrow functions, passing props to components, and export methods such as *withNavigation*. Also I need to start using icons to get this app looking spiffy.
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day004.md](docs/day004.md)  
