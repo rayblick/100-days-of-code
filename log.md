@@ -61,4 +61,14 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Thoughts:** I need to look at arrow functions, passing props to components, and export methods such as *withNavigation*. Also I need to start using icons to get this app looking spiffy.
 
 **Link to project:** https://github.com/rayblick/brewtracker  
-**Link to documents:** [docs/day004.md](docs/day004.md)  
+**Link to documents:** [docs/day005.md](docs/day005.md)  
+
+
+### Day 6: July 14, 2018  
+
+**Today's Progress:** Added Icons.
+
+**Thoughts:** Icons make all the difference! 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day006.md](docs/day006.md)  
