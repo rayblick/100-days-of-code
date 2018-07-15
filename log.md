@@ -72,3 +72,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day006.md](docs/day006.md)  
+
+
+### Day 7: July 15, 2018  
+
+**Today's Progress:** Added a date picker. Started using lifecycle events to setup components. Specifically, componentWillMount().
+
+**Thoughts:** Using existing components like react-native-datepicker will make app development a speedy process.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day007.md](docs/day007.md)  

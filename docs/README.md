@@ -8,3 +8,4 @@
 [Day 004 - Containers and Navigation](day004.md)  
 [Day 005 - Components](day005.md)  
 [Day 006 - Icons](day006.md)  
+[Day 007 - Date Picker](day007.md)  
