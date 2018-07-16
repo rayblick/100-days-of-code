@@ -82,3 +82,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day007.md](docs/day007.md)  
+
+
+### Day 8: July 16, 2018  
+
+**Today's Progress:** I looked at different user input methods; TextInput, Single select and multi-select modals.
+
+**Thoughts:** All of the data should be put into its own file and imported as required. I will look at refactoring the 'New Screen' page next.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day008.md](docs/day008.md)  

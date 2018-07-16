@@ -9,3 +9,4 @@
 [Day 005 - Components](day005.md)  
 [Day 006 - Icons](day006.md)  
 [Day 007 - Date Picker](day007.md)  
+[Day 008 - Text Input and user selection](day008.md)  
