@@ -92,3 +92,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day008.md](docs/day008.md)  
+
+
+### Day 9: July 16, 2018  
+
+**Today's Progress:** Cleaning up the layout of "New Screen" so it's a little nicer to look at.
+
+**Thoughts:** One could spend weeks/months/years tinkering with UI!
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day009.md](docs/day009.md)  
