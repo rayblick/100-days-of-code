@@ -94,11 +94,21 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to documents:** [docs/day008.md](docs/day008.md)  
 
 
-### Day 9: July 16, 2018  
+### Day 9: July 17, 2018  
 
 **Today's Progress:** Cleaning up the layout of "New Screen" so it's a little nicer to look at.
 
 **Thoughts:** One could spend weeks/months/years tinkering with UI!
 
 **Link to project:** https://github.com/rayblick/brewtracker  
-**Link to documents:** [docs/day009.md](docs/day009.md)  
+**Link to documents:** [docs/day009.md](docs/day009.md)
+
+
+### Day 10: July 18, 2018  
+
+**Today's Progress:** Using static data files.
+
+**Thoughts:** Dealing wiht data was easy. But I got into a mess of things while trying to install and subsequently uninstalled wheel-picker components. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day010.md](docs/day010.md)  
