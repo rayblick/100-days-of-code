@@ -112,3 +112,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day010.md](docs/day010.md)  
+
+
+### Day 11: July 19, 2018  
+
+**Today's Progress:** Fetch data from API
+
+**Thoughts:** My emulator is running like a slug! 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day011.md](docs/day011.md)  
