@@ -11,5 +11,6 @@
 [Day 007 - Date Picker](day007.md)  
 [Day 008 - Text Input and user selection](day008.md)  
 [Day 009 - Another look at styles](day009.md)  
-[Day 010 - Static data files](day010.md) 
+[Day 010 - Static data files](day010.md)   
 [Day 011 - Fetch data files from API](day011.md)    
+[Day 012 - SectionList](day012.md)    

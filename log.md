@@ -122,3 +122,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day011.md](docs/day011.md)  
+
+
+### Day 12: July 22, 2018  
+
+**Today's Progress:** Remove API fetch. Created Sectioned List using the hops data saved to file (hops.js).
+
+**Thoughts:** Skipped some days for family bizzo. I did a little reading around the topic of my app... basically I read/brewed some beer.  
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day012.md](docs/day012.md)  
