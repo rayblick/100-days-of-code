@@ -14,3 +14,4 @@
 [Day 010 - Static data files](day010.md)   
 [Day 011 - Fetch data files from API](day011.md)    
 [Day 012 - SectionList](day012.md)    
+[Day 013 - Table](day013.md)     

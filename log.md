@@ -132,3 +132,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day012.md](docs/day012.md)  
+
+
+### Day 13: July 23, 2018  
+
+**Today's Progress:** Render a table.
+
+**Thoughts:** Things I need to brush up on include, loops, arrays and functions. Ive been writing Python code all day at work so I am still looking up basic syntax. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day013.md](docs/day013.md)  
