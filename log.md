@@ -142,3 +142,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day013.md](docs/day013.md)  
+
+
+### Day 14: July 24, 2018  
+
+**Today's Progress:** More on tables. A little refresher on JS.
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day014.md](docs/day014.md)  
