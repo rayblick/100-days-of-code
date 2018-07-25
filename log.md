@@ -152,3 +152,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day014.md](docs/day014.md)  
+
+
+### Day 15: July 25, 2018  
+
+**Today's Progress:** Customize table data.
+
+**Thoughts:** Interesting challenge solved using a placeholder property. I had to stop the table from getting duplicate/triplicate entries.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day015.md](docs/day015.md)  

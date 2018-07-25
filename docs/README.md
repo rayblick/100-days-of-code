@@ -15,4 +15,5 @@
 [Day 011 - Fetch data files from API](day011.md)    
 [Day 012 - SectionList](day012.md)    
 [Day 013 - Table](day013.md)     
-[Day 014 - More on Tables](day014.md)     
+[Day 014 - More on tables](day014.md)     
+[Day 015 - Customize table data](day015.md)     
