@@ -148,7 +148,7 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Today's Progress:** More on tables. A little refresher on JS.
 
-**Thoughts:** 
+**Thoughts:** Solved my emulator-slug issue by wiping the user data and rebuilding the app.
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day014.md](docs/day014.md)  
@@ -162,3 +162,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day015.md](docs/day015.md)  
+
+
+### Day 16: July 26, 2018  
+
+**Today's Progress:** Add a delete button to each row in the table.
+
+**Thoughts:** I am shocked this worked without a hitch! Still need to modify the style of the table but for now it will do.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day016.md](docs/day016.md)  
