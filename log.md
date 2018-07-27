@@ -172,3 +172,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day016.md](docs/day016.md)  
+
+
+### Day 17: July 27, 2018  
+
+**Today's Progress:** Nada.
+
+**Thoughts:** I hit a wall while trying to add different buttons for each cell of each row in the existing table. I will need to think about conditional rendering and potentially deleting the table entirely and creating a flatlist containing the buttons I want.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day017.md](docs/day017.md)  
