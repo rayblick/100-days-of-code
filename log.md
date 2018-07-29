@@ -182,3 +182,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day017.md](docs/day017.md)  
+
+
+### Day 18: July 29, 2018  
+
+**Today's Progress:** FlatLists.
+
+**Thoughts:** It was rather messy updating this code. Lots of trial and error. FlatLists are great, no point wasting time using a table.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day018.md](docs/day018.md)  
