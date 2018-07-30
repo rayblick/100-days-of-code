@@ -192,3 +192,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day018.md](docs/day018.md)  
+
+
+### Day 19: July 30, 2018  
+
+**Today's Progress:** Modals.
+
+**Thoughts:** I have used plenty of modals already. I think I will just render a button or use a text input area to add quantity and boil times. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day019.md](docs/day019.md)  
