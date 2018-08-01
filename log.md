@@ -202,3 +202,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day019.md](docs/day019.md)  
+
+
+### Day 20: July 30, 2018  
+
+**Today's Progress:** Sliders.
+
+**Thoughts:** Using sliders gives a much better user experience than the modal IMO. I did however find that my code has several errors. I need to be able to add multiple hops with the same name which can be updated independently. At the moment hops with the same name get updated together. I will need to review the spread operator and indexOf() to figure out whats going on.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day020.md](docs/day020.md)  
