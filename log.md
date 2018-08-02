@@ -204,7 +204,7 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to documents:** [docs/day019.md](docs/day019.md)  
 
 
-### Day 20: July 30, 2018  
+### Day 20: August 1, 2018  
 
 **Today's Progress:** Sliders.
 
@@ -212,3 +212,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day020.md](docs/day020.md)  
+
+
+### Day 21: August 2, 2018  
+
+**Today's Progress:** Debugging
+
+**Thoughts:** Lots messing about trying to get the debugger running. Given the amount of time I spent trying to get the chrome debugger working, I'd reckon I'd be better off just rendering state changes as a text component! Ill probably do this tomorrow. I did have some luck with the stand alone react-dev tools but it was too little too late.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day021.md](docs/day021.md)  

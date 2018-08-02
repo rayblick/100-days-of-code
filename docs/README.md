@@ -22,3 +22,4 @@
 [Day 018 - FlatList](day018.md)  
 [Day 019 - Modals](day019.md)   
 [Day 020 - Sliders](day020.md)   
+[Day 020 - Debug time](day021.md)  
