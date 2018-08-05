@@ -22,4 +22,6 @@
 [Day 018 - FlatList](day018.md)  
 [Day 019 - Modals](day019.md)   
 [Day 020 - Sliders](day020.md)   
-[Day 020 - Debug time](day021.md)  
+[Day 021 - Debug time](day021.md)  
+[Day 022 - Debugging with Chrome Dev Tools](day022.md)  
+[Day 023 - Random numbers, deep copy objects](day023.md)    

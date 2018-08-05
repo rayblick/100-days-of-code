@@ -222,3 +222,23 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day021.md](docs/day021.md)  
+
+
+### Day 22: August 4, 2018  
+
+**Today's Progress:** More on debugging
+
+**Thoughts:** I actually had the Chrome dev tools working. I just needed to log some objects to the console. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day022.md](docs/day022.md)  
+
+
+### Day 23: August 5, 2018  
+
+**Today's Progress:** Creating random numbers and creating deep copies of objects in an array.
+
+**Thoughts:** Solved the horrid bug!! Chrome dev tools helped me track down what was going on in my code, and it wasnt what I thought it was! Sure my code was wrong but not the part I was trying to solve - I didnt realise that assigning an array of objects was not creating a copy! Stupid me, of course it doesn't!
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day023.md](docs/day023.md)  
