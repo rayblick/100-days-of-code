@@ -24,4 +24,5 @@
 [Day 020 - Sliders](day020.md)   
 [Day 021 - Debug time](day021.md)  
 [Day 022 - Debugging with Chrome Dev Tools](day022.md)  
-[Day 023 - Random numbers, deep copy objects](day023.md)    
+[Day 023 - Random numbers, deep copy objects](day023.md)   
+[Day 024 - Adding extra buttons and sliders](day024.md)  

@@ -242,3 +242,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day023.md](docs/day023.md)  
+
+
+### Day 24: August 6, 2018  
+
+**Today's Progress:** Adding extra sliders and buttons.
+
+**Thoughts:** NewScreen is getting messy with all the styles. I will definitely need to spend a day cleaning up this code.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day024.md](docs/day024.md)  
