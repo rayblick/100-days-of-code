@@ -252,3 +252,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day024.md](docs/day024.md)  
+
+
+### Day 25: August 8, 2018  
+
+**Today's Progress:** Conditional rendering of styles.
+
+**Thoughts:** Lots of options when using an array for styles. The ternary operator seems like the best of option for me (for now).
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day025.md](docs/day025.md)  
