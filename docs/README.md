@@ -27,3 +27,4 @@
 [Day 023 - Random numbers, deep copy objects](day023.md)   
 [Day 024 - Adding extra buttons and sliders](day024.md)  
 [Day 025 - Conditional rendering of styles](day025.md)  
+[Day 026 - Collecting app data](day026.md)  

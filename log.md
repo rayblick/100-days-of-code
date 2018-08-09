@@ -262,3 +262,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day025.md](docs/day025.md)  
+
+
+### Day 26: August 9, 2018  
+
+**Today's Progress:** Collecting data - grains.js.
+
+**Thoughts:** I want to allow the entry of malts and grains, but before I do I need to accumulate a little data. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day026.md](docs/day026.md)  
