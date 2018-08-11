@@ -272,3 +272,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day026.md](docs/day026.md)  
+
+
+### Day 27: August 10, 2018  
+
+**Today's Progress:** Time to refactor NewScreen.
+
+**Thoughts:** Too much clutter with styles and ad-hoc components. Seems to be a resonable approach though... build it, make it work, clean it up. Might have to do a little reading on front-end dev between coding sessions. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day027.md](docs/day027.md)  
