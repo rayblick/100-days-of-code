@@ -274,7 +274,7 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to documents:** [docs/day026.md](docs/day026.md)  
 
 
-### Day 27: August 10, 2018  
+### Day 27: August 11, 2018  
 
 **Today's Progress:** Time to refactor NewScreen.
 
@@ -282,3 +282,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day027.md](docs/day027.md)  
+
+
+### Day 28: August 12, 2018  
+
+**Today's Progress:** Passing function to child component
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day028.md](docs/day028.md)  

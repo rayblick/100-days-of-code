@@ -29,3 +29,4 @@
 [Day 025 - Conditional rendering of styles](day025.md)  
 [Day 026 - Collecting app data](day026.md)  
 [Day 027 - Refactoring](day027.md)  
+[Day 028 - Passing functions to child components](day028.md)  
