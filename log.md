@@ -292,3 +292,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day028.md](docs/day028.md)  
+
+
+### Day 29: August 13, 2018  
+
+**Today's Progress:** Continued refactoring
+
+**Thoughts:** Todays refactoring turned into duplication. I have added in functionality to add grains to the recipe. I have duplicated the procedure for hops by creating indiviudal methods, and now that its working I will go through and remove the duplication.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day029.md](docs/day029.md)  
