@@ -31,3 +31,4 @@
 [Day 027 - Refactoring](day027.md)  
 [Day 028 - Passing functions to child components](day028.md)  
 [Day 029 - Continued refactoring](day029.md)  
+[Day 030 - Continued refactoring](day030.md)  

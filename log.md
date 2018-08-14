@@ -302,3 +302,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day029.md](docs/day029.md)  
+
+
+### Day 30: August 14, 2018  
+
+**Today's Progress:** Continued refactoring
+
+**Thoughts:** Lots more refactoring to do!
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day030.md](docs/day030.md)  
