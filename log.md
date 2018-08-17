@@ -312,3 +312,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day030.md](docs/day030.md)  
+
+
+### Day 31: August 17, 2018  
+
+**Today's Progress:** Prepare data to be saved
+
+**Thoughts:** The NewScreen page which saves original recipes is far from done. However, it has sufficient information to start considering how the data will be saved (Realm or Firebase etc).
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day031.md](docs/day031.md)  
