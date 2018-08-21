@@ -322,3 +322,42 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day031.md](docs/day031.md)  
+
+
+### Day 32: August 18, 2018  
+
+**Today's Progress:** Firebase - reading
+
+**Thoughts:** I am looking to save data from NewScreen page to a server. Firebase looks good. Ill give that a go. More to follow soon.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+
+
+### Day 33: August 19, 2018  
+
+**Today's Progress:** Brewed beer
+
+**Thoughts:** This app has to be functional for users. Its not coding but who cares, if I don't know what data to save, no amount of coding will help. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day033.md](docs/day033.md)  
+
+
+### Day 34: August 20, 2018  
+
+**Today's Progress:** Read about brewing beer
+
+**Thoughts:** Lots of brew investigation. I think I need to covert reading into tasting.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day034.md](docs/day034.md)  
+
+
+### Day 35: August 21, 2018  
+
+**Today's Progress:** Functions to calculate IBU
+
+**Thoughts:** I need to think about exception handling.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day035.md](docs/day035.md)  
