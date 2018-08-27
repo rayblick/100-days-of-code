@@ -37,3 +37,7 @@
 [Day 033 - Brewed some beer](day033.md)  
 [Day 034 - Read about IBUs](day034.md)  
 [Day 035 - Calculating IBU](day035.md)  
+[Day 036 - Timeout at PyCon AU](README.md)  
+[Day 037 - Timeout at PyCon AU](README.md)   
+[Day 038 - Timeout at PyCon AU](README.md)  
+[Day 039 - Alert boxes](day039.md)   

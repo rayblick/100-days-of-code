@@ -361,3 +361,40 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day035.md](docs/day035.md)  
+
+
+### Day 36: August 24, 2018  
+
+**Today's Progress:** PyCon AU
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+
+
+### Day 37: August 25, 2018  
+
+**Today's Progress:** PyCon AU
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+
+
+### Day 38: August 26, 2018  
+
+**Today's Progress:** PyCon AU
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+
+
+### Day 39: August 27, 2018  
+
+**Today's Progress:** Calculate AAU, Gravity and IBU
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day039.md](docs/day039.md)
