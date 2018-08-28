@@ -41,3 +41,4 @@
 [Day 037 - Timeout at PyCon AU](README.md)   
 [Day 038 - Timeout at PyCon AU](README.md)  
 [Day 039 - Alert boxes](day039.md)   
+[Day 040 - Length of Array containing Objects](day040.md)   
