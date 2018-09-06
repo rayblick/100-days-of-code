@@ -398,3 +398,24 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day039.md](docs/day039.md)
+
+
+
+### Day 40: August 28, 2018  
+
+**Today's Progress:** Looked at calc the length of Array.
+
+**Thoughts:** 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day040.md](docs/day040.md)
+
+
+### Day 41: September 6, 2018  
+
+**Today's Progress:** Calculate AAU, Gravity and IBU
+
+**Thoughts:** I have been away from this project for a week now! I had a deadline. How quick it is to forget where you are up to!!!
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day041.md](docs/day041.md)
