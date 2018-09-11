@@ -419,3 +419,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day041.md](docs/day041.md)
+
+
+### Day 42: September 11, 2018  
+
+**Today's Progress:** Learnt about the keyword "this" 
+
+**Thoughts:** I don't like having to assign "this" to a variable such as "self" before using it within the scope of another function. 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day042.md](docs/day042.md)
