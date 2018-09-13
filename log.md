@@ -429,3 +429,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day042.md](docs/day042.md)
+
+
+### Day 43: September 13, 2018  
+
+**Today's Progress:** Added IBU calculation. Spent a lot of time trying to figure out why other flatlists are disappearing when I updated one of them. 
+
+**Thoughts:** The IBU score would be better as a floating value so that it is easily tracked while updating values.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day043.md](docs/day043.md)
