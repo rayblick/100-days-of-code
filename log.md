@@ -439,3 +439,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day043.md](docs/day043.md)
+
+
+### Day 44: September 15, 2018  
+
+**Today's Progress:** Converted multiple FlatLists to a SectionList
+
+**Thoughts:** As usual theres an easy solution already made and ready to go. The SectionList has solved my rendering problem of multiple FlatLists.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day044.md](docs/day044.md)
