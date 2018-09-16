@@ -449,3 +449,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day044.md](docs/day044.md)
+
+
+### Day 45: September 16, 2018  
+
+**Today's Progress:** Use Icons to function as a button that opens the MultiSelect Component.
+
+**Thoughts:** Couldnt immediately see how to do this from the docs, but it was easy enough to see what was going on in the source code.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day045.md](docs/day045.md)
