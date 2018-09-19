@@ -459,3 +459,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day045.md](docs/day045.md)
+
+
+### Day 46: September 19, 2018  
+
+**Today's Progress:** Updates to the New Recipe Screen.
+
+**Thoughts:** A good design is hard. I will keep tinkering until I am happy.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day046.md](docs/day046.md)
