@@ -469,3 +469,24 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day046.md](docs/day046.md)
+
+
+### Day 47: October 7, 2018  
+
+**Today's Progress:** Side project: set up raspberry pi to monitor temp and humidity in the laundry where fermentation will happen.
+
+**Thoughts:** Making good use of some redundant hardware.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** 
+
+
+### Day 48: October 8, 2018  
+
+**Today's Progress:** Side project: Setup table in Postgres.
+
+**Thoughts:** Definitely like -> and --> methods of accessing JSON data.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day048.md](docs/day048.md)
+

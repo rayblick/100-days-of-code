@@ -48,3 +48,5 @@
 [Day 044 - SectionList](day044.md)  
 [Day 045 - Use a button to open MultiSelect Component](day045.md)  
 [Day 046 - Updated layout to recipe screen](day046.md)  
+[Day 047 - SIDE PROJECT: Setup Raspberry Pi to monitor the fermentation room](README.md)    
+[Day 048 - SIDE PROJECT: Setup Postgres Table](day048.md)  
