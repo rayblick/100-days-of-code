@@ -490,3 +490,12 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day048.md](docs/day048.md)
 
+
+### Day 49: October 9, 2018  
+
+**Today's Progress:** Side project: Setup Python Django dashboard.
+
+**Thoughts:** Lots of tinkering to get access the RPi on LAN. I had to add the RPi's IP address to the ALLOWED_HOST variable in the settings.py before I could view the landing/welcome page. 
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day049.md](docs/day049.md)
