@@ -499,3 +499,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker 
 **Link to documents:** [docs/day049.md](docs/day049.md)
+
+
+### Day 50: October 10, 2018  
+
+**Today's Progress:** Side project: Setup React page in Django dashboard.
+
+**Thoughts:** Pretty easy setup, just followed along https://medium.com/alpha-coder/heres-a-dead-simple-react-django-setup-for-your-next-project-c0b0036663c6.
+
+**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to documents:** [docs/day050.md](docs/day050.md)
