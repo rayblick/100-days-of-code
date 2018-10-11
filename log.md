@@ -369,7 +369,7 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Thoughts:** 
 
-**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to project:** https://github.com/rayblick/brewtracker   
 
 
 ### Day 37: August 25, 2018  
@@ -378,7 +378,7 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Thoughts:** 
 
-**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to project:** https://github.com/rayblick/brewtracker  
 
 
 ### Day 38: August 26, 2018  
@@ -387,125 +387,135 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Thoughts:** 
 
-**Link to project:** https://github.com/rayblick/brewtracker 
+**Link to project:** https://github.com/rayblick/brewtracker  
 
 
 ### Day 39: August 27, 2018  
 
-**Today's Progress:** Calculate AAU, Gravity and IBU
+**Today's Progress:** Calculate AAU, Gravity and IBU  
 
 **Thoughts:** 
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day039.md](docs/day039.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day039.md](docs/day039.md)  
 
 
 
 ### Day 40: August 28, 2018  
 
-**Today's Progress:** Looked at calc the length of Array.
+**Today's Progress:** Looked at calc the length of Array.  
 
 **Thoughts:** 
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day040.md](docs/day040.md)
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day040.md](docs/day040.md)  
 
 
 ### Day 41: September 6, 2018  
 
 **Today's Progress:** Calculate AAU, Gravity and IBU
 
-**Thoughts:** I have been away from this project for a week now! I had a deadline. How quick it is to forget where you are up to!!!
+**Thoughts:** I have been away from this project for a week now! I had a deadline. How quick it is to forget where you are up to!!!  
 
 **Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day041.md](docs/day041.md)
+**Link to documents:** [docs/day041.md](docs/day041.md)  
 
 
 ### Day 42: September 11, 2018  
 
-**Today's Progress:** Learnt about the keyword "this" 
+**Today's Progress:** Learnt about the keyword "this"  
 
-**Thoughts:** I don't like having to assign "this" to a variable such as "self" before using it within the scope of another function. 
+**Thoughts:** I don't like having to assign "this" to a variable such as "self" before using it within the scope of another function.   
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day042.md](docs/day042.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day042.md](docs/day042.md)  
 
 
 ### Day 43: September 13, 2018  
 
-**Today's Progress:** Added IBU calculation. Spent a lot of time trying to figure out why other flatlists are disappearing when I updated one of them. 
+**Today's Progress:** Added IBU calculation. Spent a lot of time trying to figure out why other flatlists are disappearing when I updated one of them.   
 
-**Thoughts:** The IBU score would be better as a floating value so that it is easily tracked while updating values.
+**Thoughts:** The IBU score would be better as a floating value so that it is easily tracked while updating values.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day043.md](docs/day043.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day043.md](docs/day043.md)  
 
 
 ### Day 44: September 15, 2018  
 
-**Today's Progress:** Converted multiple FlatLists to a SectionList
+**Today's Progress:** Converted multiple FlatLists to a SectionList  
 
-**Thoughts:** As usual theres an easy solution already made and ready to go. The SectionList has solved my rendering problem of multiple FlatLists.
+**Thoughts:** As usual theres an easy solution already made and ready to go. The SectionList has solved my rendering problem of multiple FlatLists.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day044.md](docs/day044.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day044.md](docs/day044.md)  
 
 
 ### Day 45: September 16, 2018  
 
-**Today's Progress:** Use Icons to function as a button that opens the MultiSelect Component.
+**Today's Progress:** Use Icons to function as a button that opens the MultiSelect Component.  
 
-**Thoughts:** Couldnt immediately see how to do this from the docs, but it was easy enough to see what was going on in the source code.
+**Thoughts:** Couldnt immediately see how to do this from the docs, but it was easy enough to see what was going on in the source code.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day045.md](docs/day045.md)
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day045.md](docs/day045.md)  
 
 
 ### Day 46: September 19, 2018  
 
-**Today's Progress:** Updates to the New Recipe Screen.
+**Today's Progress:** Updates to the New Recipe Screen.  
 
-**Thoughts:** A good design is hard. I will keep tinkering until I am happy.
+**Thoughts:** A good design is hard. I will keep tinkering until I am happy.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day046.md](docs/day046.md)
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day046.md](docs/day046.md)  
 
 
 ### Day 47: October 7, 2018  
 
-**Today's Progress:** Side project: set up raspberry pi to monitor temp and humidity in the laundry where fermentation will happen.
+**Today's Progress:** Side project: set up Raspberry Pi to monitor temp and humidity in the laundry where fermentation will happen.  
 
-**Thoughts:** Making good use of some redundant hardware.
+**Thoughts:** Making good use of some redundant hardware.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** 
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:**  
 
 
 ### Day 48: October 8, 2018  
 
-**Today's Progress:** Side project: Setup table in Postgres.
+**Today's Progress:** Side project: Setup table in Postgres.  
 
-**Thoughts:** Definitely like -> and --> methods of accessing JSON data.
+**Thoughts:** Definitely like -> and --> methods of accessing JSON data.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day048.md](docs/day048.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day048.md](docs/day048.md)  
 
 
 ### Day 49: October 9, 2018  
 
-**Today's Progress:** Side project: Setup Python Django dashboard.
+**Today's Progress:** Side project: Setup Python Django dashboard.  
 
-**Thoughts:** Lots of tinkering to get access the RPi on LAN. I had to add the RPi's IP address to the ALLOWED_HOST variable in the settings.py before I could view the landing/welcome page. 
+**Thoughts:** Lots of tinkering to get access the RPi on LAN. I had to add the RPi's IP address to the ALLOWED_HOST variable in the settings.py before I could view the landing/welcome page.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day049.md](docs/day049.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day049.md](docs/day049.md)  
 
 
 ### Day 50: October 10, 2018  
 
-**Today's Progress:** Side project: Setup React page in Django dashboard.
+**Today's Progress:** Side project: Setup React page in Django dashboard.  
 
-**Thoughts:** Pretty easy setup, just followed along https://medium.com/alpha-coder/heres-a-dead-simple-react-django-setup-for-your-next-project-c0b0036663c6.
+**Thoughts:** Pretty easy setup, just followed along https://medium.com/alpha-coder/heres-a-dead-simple-react-django-setup-for-your-next-project-c0b0036663c6.  
 
-**Link to project:** https://github.com/rayblick/brewtracker 
-**Link to documents:** [docs/day050.md](docs/day050.md)
+**Link to project:** https://github.com/rayblick/brewtracker   
+**Link to documents:** [docs/day050.md](docs/day050.md)  
+
+
+### Day 51: October 11, 2018  
+
+**Today's Progress:** Side project: Setup Flask API for get requests coming from the React Page to extract data from the Postgres DB.  
+
+**Thoughts:** Dont forget the shebang! I think the property method to serialise the database model output has just changed my life!
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day051.md](docs/day051.md)  

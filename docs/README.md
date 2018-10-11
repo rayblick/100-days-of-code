@@ -51,4 +51,5 @@
 [Day 047 - SIDE PROJECT: Setup Raspberry Pi to monitor the fermentation room](README.md)    
 [Day 048 - SIDE PROJECT: Setup Postgres Table](day048.md)  
 [Day 049 - SIDE PROJECT: Setup Django App](day049.md)  
-[Day 050 - SIDE PROJECT: Setup React Page in Django](day050.md)
+[Day 050 - SIDE PROJECT: Setup React Page in Django](day050.md)  
+[Day 051 - SIDE PROJECT: Setup Flask API](day051.md)  
