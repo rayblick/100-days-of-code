@@ -519,3 +519,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day051.md](docs/day051.md)  
+
+
+### Day 52: October 11, 2018  
+
+**Today's Progress:** Side project: Connect React to Flask API.  
+
+**Thoughts:** Struggled to setup proxy for React via Django so decided to remove Django and just use React. 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day052.md](docs/day052.md)  
