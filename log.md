@@ -521,7 +521,7 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to documents:** [docs/day051.md](docs/day051.md)  
 
 
-### Day 52: October 11, 2018  
+### Day 52: October 12, 2018  
 
 **Today's Progress:** Side project: Connect React to Flask API.  
 
@@ -529,3 +529,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day052.md](docs/day052.md)  
+
+
+### Day 53: October 13, 2018  
+
+**Today's Progress:** Side project: Prep data for mark cards.  
+
+**Thoughts:** Enjoying writing JS.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day053.md](docs/day053.md)  

@@ -54,4 +54,5 @@
 [Day 050 - SIDE PROJECT: Setup React Page in Django](day050.md)  
 [Day 051 - SIDE PROJECT: Setup Flask API](day051.md)  
 [Day 052 - SIDE PROJECT: Connect React to Flask](day052.md)  
+[Day 053 - SIDE PROJECT: Setup data for MarkCards](day053.md)  
 
