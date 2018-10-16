@@ -539,3 +539,33 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day053.md](docs/day053.md)  
+
+
+### Day 54: October 14, 2018  
+
+**Today's Progress:** Side project: Prep data for mark cards.  
+
+**Thoughts:** Rediscovered a cool way to get a deep copy of an object using JSON parse and stringify function.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day054.md](docs/day054.md)  
+
+
+### Day 55: October 15, 2018  
+
+**Today's Progress:** Side project: Created react component to display mark cards.  
+
+**Thoughts:** Thought I might get away with writing components like Text and View from React Native. Nope.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day055.md](docs/day055.md)  
+
+
+### Day 56: October 16, 2018  
+
+**Today's Progress:** Side project: Styled Mark Cards.  
+
+**Thoughts:** Please to see that the "style={{}}" notation is available in React. I liked this in React Native. Some things Ill do next include; 1) py script to collect local weather data every 10 mins, 2) connect 1-wire temp probes and collect temp data every 10 mins, 3) connect Grove Pi temp/humidity sensor and collect data every 10 mins.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day056.md](docs/day056.md)  
