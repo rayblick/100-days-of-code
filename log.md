@@ -569,3 +569,14 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day056.md](docs/day056.md)  
+
+
+
+### Day 57: October 17, 2018  
+
+**Today's Progress:** Side project: API Request OpenWeather.  
+
+**Thoughts:** I didn't realise how much I would miss f strings! 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day057.md](docs/day057.md)  

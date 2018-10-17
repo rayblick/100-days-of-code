@@ -58,4 +58,5 @@
 [Day 054 - SIDE PROJECT: Setup data for MarkCards](day054.md)  
 [Day 055 - SIDE PROJECT: Create React Component](day055.md)  
 [Day 056 - SIDE PROJECT: Style MarkCards](day056.md)  
+[Day 057 - SIDE PROJECT: API Request for OpenWeather](day057.md)  
 
