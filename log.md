@@ -580,3 +580,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day057.md](docs/day057.md)  
+
+
+### Day 58: October 18, 2018  
+
+**Today's Progress:** Side project: Finish API Request OpenWeather.  
+
+**Thoughts:** A lot of pain trying to deal with request.json while saving to a JSON column of Postgres DB from POST request. Then I realised I didnt have to do anything at all. Good.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day058.md](docs/day058.md)  
