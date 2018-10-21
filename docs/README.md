@@ -60,5 +60,5 @@
 [Day 056 - SIDE PROJECT: Style MarkCards](day056.md)  
 [Day 057 - SIDE PROJECT: API Request for OpenWeather](day057.md)  
 [Day 058 - SIDE PROJECT: API Request for OpenWeather](day058.md)  
-
+[Day 059 - SIDE PROJECT: Connect 1-wire Temp Probe](day059.md)  
 

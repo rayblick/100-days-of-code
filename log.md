@@ -590,3 +590,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day058.md](docs/day058.md)  
+
+
+### Day 59: October 21, 2018  
+
+**Today's Progress:** Side project: Connect 1-wire temp sensor.  
+
+**Thoughts:** Very easy setup! 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day059.md](docs/day059.md)  
