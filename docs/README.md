@@ -61,4 +61,5 @@
 [Day 057 - SIDE PROJECT: API Request for OpenWeather](day057.md)  
 [Day 058 - SIDE PROJECT: API Request for OpenWeather](day058.md)  
 [Day 059 - SIDE PROJECT: Connect 1-wire Temp Probe](day059.md)  
-
+[Day 060 - SIDE PROJECT: Debugging database insert](day060.md)  
+[Day 061 - SIDE PROJECT: Fixing datetime in DB](day061.md)  

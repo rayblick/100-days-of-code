@@ -600,3 +600,23 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day059.md](docs/day059.md)  
+
+
+### Day 60: October 22, 2018  
+
+**Today's Progress:** Side project: Debugging database inset.  
+
+**Thoughts:** Ive been storing ISO-8601 date format in string format. Opps. Not a good idea.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day060.md](docs/day060.md)  
+
+
+### Day 61: October 23, 2018  
+
+**Today's Progress:** Side project: Fixing database insert on datetime.  
+
+**Thoughts:** Fix storage of datetime. Use Timestamp.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day061.md](docs/day061.md)  
