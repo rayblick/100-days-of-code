@@ -629,4 +629,15 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Thoughts:** Simple fix. Tried using .desc() method but did the opposite of what I needed. Removed and all is fine. Next up plot 24 dataset.
 
 **Link to project:** https://github.com/rayblick/brewtracker  
-**Link to documents:** [docs/day062.md](docs/day062.md) 
+**Link to documents:** [docs/day062.md](docs/day062.md)  
+
+
+### Day 63: October 26, 2018  
+
+**Today's Progress:** Side project: Processed historical data for Sydney Daily Maximum.  
+
+**Thoughts:** Slightly alarming how big the difference is between pre80 and post80 temps.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day063.md](docs/day063.md) 
+
