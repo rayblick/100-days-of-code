@@ -641,3 +641,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day063.md](docs/day063.md) 
 
+
+### Day 64: October 28, 2018  
+
+**Today's Progress:** Side project: Send data to Raspberry Pi.  
+
+**Thoughts:** Simple using scp on linux. Not sure how I would do this with Windows. I should look into this.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day064.md](docs/day064.md) 
+
