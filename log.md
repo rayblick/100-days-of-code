@@ -642,12 +642,32 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to documents:** [docs/day063.md](docs/day063.md) 
 
 
-### Day 64: October 28, 2018  
+### Day 64: October 27, 2018  
 
-**Today's Progress:** Side project: Send data to Raspberry Pi.  
+**Today's Progress:** Side project: Send data to RPi.  
 
-**Thoughts:** Simple using scp on linux. Not sure how I would do this with Windows. I should look into this.
+**Thoughts:** Short and sweet. Use SCP
 
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day064.md](docs/day064.md) 
+
+
+### Day 65: October 28, 2018  
+
+**Today's Progress:** Side project: Create React Chart.  
+
+**Thoughts:** Lots of trial and error.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day065.md](docs/day065.md) 
+
+
+### Day 66: October 30, 2018  
+
+**Today's Progress:** Side project: Styling React Chart.
+
+**Thoughts:** More trial and error. Good to discover several components <Responsive> and styler.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day066.md](docs/day066.md) 
 

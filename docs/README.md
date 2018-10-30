@@ -66,4 +66,7 @@
 [Day 062 - SIDE PROJECT: Add order_by to Flask API](day062.md)  
 [Day 063 - SIDE PROJECT: Create temp data using Pandas](day063.md)  
 [Day 064 - SIDE PROJECT: Send data to Raspberry Pi](day064.md)  
+[Day 065 - SIDE PROJECT: Making a chart in React](day065.md)  
+[Day 066 - SIDE PROJECT: Styling React Chart](day066.md)  
+
 
