@@ -671,3 +671,13 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day066.md](docs/day066.md) 
 
+
+### Day 67: November 3, 2018  
+
+**Today's Progress:** Side project: Debugging browser compatability issue.
+
+**Thoughts:** This was a nightmare born from stupity. The issue originated while trying to plot using react-timeseries-chart - my app was working with Firefox and Chrome but not IE/Edge/Chromium or Chrome on my phone. The error message said "data not in chronological order". I traced the error back to how I was processing the API request. One part took the latest records from the request which parsed dates to show on the main page. The second was to chart the data. The issue I encounted was that the first part with the latest records wasn't copying the data and was actually writting back to the original data source (modifying the date format) and then the second part was breaking (incorrect chronological order) because I had mixed date formatting (the latest record was stored in a different format). 
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day067.md](docs/day067.md) 
+
