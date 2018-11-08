@@ -69,4 +69,6 @@
 [Day 065 - SIDE PROJECT: Making a chart in React](day065.md)  
 [Day 066 - SIDE PROJECT: Styling React Chart](day066.md)  
 [Day 067 - SIDE PROJECT: Debug browser compatability](day067.md)  
+[Day 068 - SIDE PROJECT: Add min-max to Y axis of chart](day068.md)  
+[Day 069 - SIDE PROJECT: YAxis tickCount, Legends](day069.md)  
 

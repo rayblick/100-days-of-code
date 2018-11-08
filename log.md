@@ -681,3 +681,22 @@ My 100-days-of-code will focus on JavaScript. Some days will focus on nothing mo
 **Link to project:** https://github.com/rayblick/brewtracker  
 **Link to documents:** [docs/day067.md](docs/day067.md) 
 
+
+### Day 68: November 4, 2018  
+
+**Today's Progress:** Side project: Add min max on Y axis to react timeseries chart.
+
+**Thoughts:** Easy solution, but need to figure out how to get min and max of multiple line charts.
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day068.md](docs/day068.md) 
+
+
+### Day 69: November 8, 2018  
+
+**Today's Progress:** Side project: Change tick frequency using tickCount and added a legend to react-timeseries-chart
+
+**Thoughts:** Took a while to figure out where to put the code for the legend, I figured it would go in the ChartContainer. Wrong. It is its own component!
+
+**Link to project:** https://github.com/rayblick/brewtracker  
+**Link to documents:** [docs/day069.md](docs/day069.md) 
