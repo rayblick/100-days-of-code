@@ -71,4 +71,5 @@
 [Day 067 - SIDE PROJECT: Debug browser compatability](day067.md)  
 [Day 068 - SIDE PROJECT: Add min-max to Y axis of chart](day068.md)  
 [Day 069 - SIDE PROJECT: YAxis tickCount, Legends](day069.md)  
-
+[Day 070 - SIDE PROJECT: Setting up a node - GrovePi](day070.md)  
+[Day 071 - SIDE PROJECT: Finalise node - GrovePi](day071.md)  
